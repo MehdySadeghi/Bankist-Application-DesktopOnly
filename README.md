@@ -10,13 +10,14 @@ Bankist simulates core online banking features while demonstrating modern JavaSc
 
 ## 🚀 Live Demo
 
-**Try it here:** bankist-application-desktop-only.vercel.app
+**Try it here:** bankist-application-desktop-only.vercel.app 
+
+**Try using a VPN if you are in Iran**
 
 ---
 
 ## 📸 Preview
 
-> Add screenshots of your application here.
 
 ### Dashboard
 
