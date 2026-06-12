@@ -19,16 +19,12 @@ Bankist simulates core online banking features while demonstrating modern JavaSc
 ## 📸 Preview
 
 
-### Dashboard
-
-```md id="c26gnm"
-![Bankist Dashboard](./screenshots/dashboard.png)
+```md
+![Bankist log in menu](./screenshots/log-in.png)
 ```
 
-### Transactions & Account Management
-
-```md id="5jqz8t"
-![Bankist Transactions](./screenshots/transactions.png)
+```md
+![Bankist dashboard](./screenshots/dashboard.png)
 ```
 
 ---
